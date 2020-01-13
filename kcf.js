@@ -10,4 +10,6 @@ let fahrenheit = celsius * (9/5) + 32;
 //now we round the temperature in fahrenheit to the nearest integer
 fahrenheit = Math.floor(fahrenheit);
 
+//print statement:
+console.log(`The temperature is ${celsius} degrees Celsius`);
 console.log(`The temperature is ${fahrenheit} degrees Fahrenheit`);
